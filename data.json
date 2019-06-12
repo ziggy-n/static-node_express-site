@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "id":"0",
+      "project_name":"Random Quote Generator",
+      "description":"this website displays a random quote",
+      "technologies":["css", "html", "javascript"],
+      "live_link":"https://ziggy-n.github.io/random_quote_generator/",
+      "github_link":"https://github.com/ziggy-n/random_quote_generator",
+      "image_urls":["/images/rqg_1.png", "/images/rqg_2.png", "/images/rqg_3.png"],
+      "imageloc": "rqg"
+    },
+    {
+      "id":"1",
+      "project_name":"Pagination And Filtering",
+      "description":"this website displays a list of people, 10 people per page. one can filter the list",
+      "technologies":["css", "html", "javascript"],
+      "live_link":"https://ziggy-n.github.io/pagination_n_filtering/",
+      "github_link":"https://github.com/ziggy-n/pagination_n_filtering",
+      "image_urls":["/images/pag_1.png", "/images/pag_2.png", "/images/pag_3.png"],
+      "imageloc": "pag"
+    },
+    {
+      "id":"2",
+      "project_name":"Interactive Form",
+      "description":"this website contains a form. error messages appear whenever an incorrect format is input",
+      "technologies":["css", "html", "javascript"],
+      "live_link":"https://ziggy-n.github.io/interactive-form/",
+      "github_link":"https://github.com/ziggy-n/interactive-form",
+      "image_urls":["/images/form_1.png", "/images/frm_2.png", "/images/form_3.png", "/images/form_4.png"],
+      "imageloc": "form"
+    },
+    {
+      "id":"3",
+      "project_name":"Phrase Hunter",
+      "description":"website with an interactive game",
+      "technologies":["css", "html", "javascript"],
+      "live_link":"https://ziggy-n.github.io/phrase-hunter/",
+      "github_link":"https://github.com/ziggy-n/phrase-hunter",
+      "image_urls":["/images/ph_1.png", "/images/ph_2.png", "/images/ph_3.png", "/images/ph_4.png", "/images/ph_5.png"],
+      "imageloc": "ph"
+    },
+    {
+      "id":"4",
+      "project_name":"Public API Request",
+      "description":"website with an interactive game",
+      "technologies":["css", "html", "javascript"],
+      "live_link":"https://ziggy-n.github.io/public-api-request/",
+      "github_link":"https://github.com/ziggy-n/public-api-request",
+      "image_urls":["/images/api_1.png", "/images/api_2.png", "/images/api_3.png", "/images/api_4.png", "/images/api_5.png"],
+      "imageloc": "api"
+    }
+  ]
+}
